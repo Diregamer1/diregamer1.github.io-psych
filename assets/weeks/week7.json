@@ -1,0 +1,48 @@
+{
+	"songs": [
+		[
+			"Make it funky",
+			"dad",
+			[
+				255,
+				20,
+				20
+			]
+		],
+		[
+			"melancholy",
+			"dad",
+			[
+				0,
+				113,
+				253
+			]
+		],
+		[
+			"flame war",
+			"dad",
+			[
+				175,
+				0,
+				255
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"storyName": "Red and blue",
+	"weekName": "Week DF",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
